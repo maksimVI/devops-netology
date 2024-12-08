@@ -27,3 +27,4 @@ terraform.rc
 
 new line
 
+IDE PyCharm commit
