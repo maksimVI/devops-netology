@@ -1,0 +1,25 @@
+# Исключаем переменные окружения (env переменные)
+.env
+
+# Исключаем файлы и директории, связанные с Git
+.git/
+.gitignore
+
+# Исключаем временные файлы и кэш Python и py файлы
+__pycache__
+*.pyc
+
+# Исключаем bash скрипты
+
+*.sh
+
+# Другие файлы проекта
+
+haproxy/
+nginx/
+LICENSE
+not_tested_main.py
+proxy.yaml
+compose.yaml
+README.md
+schema.pdf
